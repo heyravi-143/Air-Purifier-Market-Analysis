@@ -1,5 +1,6 @@
 Air Purifier Market Fit Dashboard
 Project Overview
+
 This dashboard and its SQL analysis provide a data-driven look into the air purifier market. The project identifies a significant opportunity by analyzing air quality, public health, and consumer demand.
 
 Data Sources & Analysis
