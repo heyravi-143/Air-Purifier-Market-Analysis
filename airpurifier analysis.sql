@@ -377,6 +377,8 @@ WITH HIGH_POPULATION AS(
 --Bahadurgarh
 --Gurugram
 
+-- the High air pollution is  in the months of November To March  so this is the high demand time for the air purifier that we can run our marketing campaigns.
+
 
 
 	
@@ -394,6 +396,7 @@ WITH HIGH_POPULATION AS(
 
 
 	
+
 
 
 
