@@ -17,7 +17,7 @@ The Executive Summary highlights these KPIs:
 
 Avg AQI: 111.13 (Poor air quality).
 
-Exposed Population: 12 Million.
+Exposed Population: 76 Million.
 
 Top Pollutant: PM10.
 
@@ -39,7 +39,7 @@ Demand Triggers: Seasonal AQI patterns and their correlation with search trends.
 Market Size Estimation: A data-driven ranking of market opportunities by state.
 
 Key Insights
-Strong Market: An average AQI of 111.13 affects 12 million people.
+Strong Market: An average AQI of 111.13 affects 76 million people.
 
 Key Pollutants: PM10 and PM2.5 are dominant, guiding product design.
 
